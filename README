@@ -1,0 +1,11 @@
+# Requirements
+- Java
+- bash
+
+# Run program
+To execute the program, run the following script:
+$ ./run.sh
+
+# Run tests
+To execute the unit tests, run the following script:
+$ test.sh
